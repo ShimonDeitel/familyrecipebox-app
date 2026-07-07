@@ -1,0 +1,29 @@
+{
+  "identifier" : "Familyrecipebox",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "familyrecipeboxnc001",
+      "localizations" : [
+        {
+          "description" : "Recipe categorization and printable recipe-card export",
+          "displayName" : "Familyrecipebox Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.familyrecipebox.pro",
+      "referenceName" : "Familyrecipebox Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
